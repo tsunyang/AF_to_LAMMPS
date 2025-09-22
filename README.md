@@ -8,7 +8,7 @@ To fit chains into a simulation box, we make use of Packmol described by Martine
 
 Simulations are conducted in LAMMPS which can be downloaded [here](https://www.lammps.org/download.html). For these coarse-grain simulations, the forcefield developed by Joseph et al. (doi: 10.1038/s43588-021-00155-3) is used, which requires a version of LAMMPS that includes Wang/Frenkel pair style. Make sure LAMMPS is installed with the packages: EXTRA-DUMP, EXTRA-FIX, EXTRA-MOLECULE, EXTRA-PAIR, MOLECULE, and RIGID.
 
-Additionally, several modules are downloaded in Python for the example. These include, jupyter numpy, pandas, sys, scikit-learn, copy, json, re, scipy, biopython, itertools, Prody, matplotlib.
+Additionally, several modules are downloaded in Python for the example. These include, jupyter, numpy, pandas, sys, scikit-learn, copy, json, re, scipy, biopython, itertools, Prody, matplotlib.
 
 # Steps in Example
 This example is found in the walkthrough folder, and makes use of jupyter notebook
