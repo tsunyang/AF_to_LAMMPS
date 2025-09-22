@@ -1,0 +1,16 @@
+variable data_file string data/data.2_vts1_pre_squeeze
+variable seed equal 123
+variable pair_interactions string input/set_pair_param-Mpipi_struct.dat
+variable bond_interactions string input/Vts1.bond
+variable vfrac_init equal 0.043485120720279276
+variable vfrac_fin equal 0.11026467500446473
+variable equib_time equal 25000
+variable run_name string data.vts1_squeeze
+variable final_length equal 220
+
+variable timestep equal 10
+variable damp equal 1000
+variable temp_lab equal 303
+
+variable thermo_increment equal 1
+variable dump_increment equal 500

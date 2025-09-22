@@ -1,0 +1,16 @@
+variable data_file string data_file_in
+variable seed equal seed_in
+variable pair_interactions string pair_interactions_in
+variable bond_interactions string bond_interactions_in
+variable vfrac_init equal vfrac_init_in
+variable vfrac_fin equal vfrac_fin_in
+variable equib_time equal equib_time_in
+variable run_name string run_name_in
+variable final_length equal final_length_in
+
+variable timestep equal 10
+variable damp equal 1000
+variable temp_lab equal temp_lab_in
+
+variable thermo_increment equal thermo_increment_in
+variable dump_increment equal dump_increment_in

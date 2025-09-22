@@ -1,0 +1,12 @@
+filetype pdb
+output ../pdb/2_vts1.pdb
+tolerance 1.0
+
+structure ../pdb/c_0.pqr
+	number 1
+	inside box 0. 0. 0. 300.000000  300.000000 300.000000
+end structure
+structure ../pdb/c_1.pqr
+	number 1
+	inside box 0. 0. 0. 300.000000  300.000000 300.000000
+end structure
