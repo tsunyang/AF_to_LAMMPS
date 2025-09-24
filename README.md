@@ -19,3 +19,6 @@ This example is found in the walkthrough folder, and makes use of jupyter notebo
 
 2. Open and load modules in Jupyter.
 - Open jupyter notebook via `jupyter notebook`. Click on the jupyter notebook  gen_Vts1.ipynb in the walkthrough folder and follow the directions therein.
+
+# Questions/Concerns
+Please contact Theo at theoyang98@gmail.com
